@@ -222,7 +222,7 @@ await tx.wait();
 - Developer: uthman fatima
 - Email: futhmah456@gmail.com
 - GitHub: https://github.com/Jumcee
-- Twitter: 
+- Twitter project link: https://x.com/futhmah456/status/1866591024623022507
 
 
 
