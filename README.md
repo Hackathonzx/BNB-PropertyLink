@@ -224,15 +224,3 @@ await tx.wait();
 - GitHub: https://github.com/Jumcee
 - Twitter project link: https://x.com/futhmah456/status/1866591024623022507
 
-
-
-
-Demo Video
-
-- Record a short demo video showcasing the platform, highlighting:
-- Deployment and transaction execution (you can show Etherscan or logs).
-- Key features like minting NFTs and registering fractional owners.
-- Keep it concise (2–3 minutes).
-
-
-Tweet
