@@ -45,9 +45,9 @@ export default function Home() {
             of properties and making real estate investment accessible to everyone.
           </p>
           <div className="flex space-x-4 justify-center">
-            <button className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-3 px-6 rounded-lg">
+            <a href={`https://github.com/login/oauth/authorize?client_id=YOUR_GITHUB_CLIENT_ID&redirect_uri=https://www.example.com`} className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-3 px-6 rounded-lg">
               Sign in with Github
-            </button>
+            </a>
             <button 
               onClick={() => setWalletOverlay(true)} 
               className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-3 px-6 rounded-lg"
