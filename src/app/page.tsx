@@ -58,7 +58,7 @@ if (process.env.NODE_ENV === 'production') {
             of properties and making real estate investment accessible to everyone.
           </p>
           <div className="flex space-x-4 justify-center">
-            <a href={`https://github.com/login/oauth/authorize?client_id=${constants.CLIENT_ID}&redirect_uri=${redirectUri}/dashboard`} className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-3 px-6 rounded-lg">
+            <a href={`https://github.com/login/oauth/authorize?client_id=${constants.CLIENT_ID}`} className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-3 px-6 rounded-lg">
               Sign in with Github
             </a>
             <button 
