@@ -48,9 +48,9 @@ The project uses three main smart contracts to handle different functionalities:
 **Installation**
 - Clone the repository:
 
-   - git clone https://github.com/TechnoShe/BNBPropertyLink.git
+   - git clone https://github.com/Hackathonzx/BNB-PropertyLink.git.git
 
-   -  cd BNBPropertyLink
+   -  cd BNB-propertyLink
 
 - Install dependencies:
    - npm install
